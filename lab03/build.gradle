@@ -1,6 +1,6 @@
 buildscript {
         repositories {
-            flatDir dirs: '/mnt/d/otu/winter2021/csci2020u/github/csci2020u_AbdulwasayMansoor/proguard6.2.2/lib'
+            flatDir dirs: 'proguard6.2.2/lib'
         }
         dependencies {
             classpath ':proguard:'
